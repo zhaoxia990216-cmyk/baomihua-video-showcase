@@ -1,8 +1,9 @@
 {
-  "name": "vite-react-template",
-  "installCommand": "npm install",
+  "name": "baomihua-video-showcase",
+  "installCommand": "",
+  "buildCommand": "",
   "assets": {
-    "directory": "./dist",
+    "directory": ".",
     "notFoundStrategy": "singlePageApplication"
   }
 }
