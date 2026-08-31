@@ -1,7 +1,7 @@
 {
   "name": "baomihua-video-showcase",
   "installCommand": "",
-  "buildCommand": "",
+  "buildCommand": "echo Static site ready",
   "assets": {
     "directory": ".",
     "notFoundStrategy": "singlePageApplication"
